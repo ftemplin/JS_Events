@@ -1,0 +1,19 @@
+/* This is the CSS file for the query selectors training and examples page */
+/*CSS .class {}   #id {}, element combination could be .class #id a {}*/
+/* ---------------------------------------------------------------------------------- */
+
+footer, header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #BF964B;
+    font-weight: normal;
+    background-color: #009900;
+    }
+
+footer {height: 10vh;}
+header {height: 20vh;}
+
+main {
+	background-color: #f1f7eb;
+}
